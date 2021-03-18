@@ -14,7 +14,7 @@ This is a fairly simple project with complex wiring. Since I didn't have any mod
 decided to use two L298D H-Bridge components, a breadboard, and a whole lot of wires. This project is powered
 by a RasPi Zero W which receives IR signal and iteratively acts based on received signal to control direction.
 It is capable of moving forward-backward, turning, and strafing. The next steps are to implement an IMU to control
-rotation to ensure lateral strafing. See [the code for this here](https://github.com/borealis31/borealis31/edit/main/README.md).
+rotation to ensure lateral strafing. See [the code for this here](https://github.com/borealis31/robo_rpi0w).
 
 📫 You can reach me at jakeb.chouinard@gmail.com or jakeb.chouinard@uwaterloo.ca
 
