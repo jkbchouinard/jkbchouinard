@@ -20,7 +20,7 @@ rotation to ensure lateral strafing. See [the code for this here](https://github
 ![alt text](https://github.com/borealis31/stats_analytics_school_project/blob/main/pride_and_prejudice_results.png)
 This is a group project for my Statistics course, for which I was responsible for creating the Matlab script to
 analyze public domain text files hosted by Project Guttenberg and to find statistical characteristic values for
-word length. See [the code for this here](https://github.com/borealis31/stats_analytics_school_project).
+word length. See [the code for this here](https://github.com/borealis31/Enginereing-Statistics_Term-Project).
 
 📫 You can reach me at jakeb.chouinard@gmail.com or jakeb.chouinard@uwaterloo.ca
 
