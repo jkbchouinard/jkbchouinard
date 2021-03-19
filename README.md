@@ -17,10 +17,10 @@ It is capable of moving forward-backward, turning, and strafing. The next steps 
 rotation to ensure lateral strafing. See [the code for this here](https://github.com/borealis31/robo_rpi0w).
 
 ## **Matlab .txt Analyzer (Analytical Statistics)**
-![alt text]()
+![alt text](https://github.com/borealis31/stats_analytics_school_project/blob/main/pride_and_prejudice_results.png)
 This is a group project for my Statistics course, for which I was responsible for creating the Matlab script to
 analyze public domain text files hosted by Project Guttenberg and to find statistical characteristic values for
-word length. See [the code for this here]()
+word length. See [the code for this here](https://github.com/borealis31/stats_analytics_school_project).
 
 📫 You can reach me at jakeb.chouinard@gmail.com or jakeb.chouinard@uwaterloo.ca
 
