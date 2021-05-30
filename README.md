@@ -4,7 +4,7 @@ Hi all, I’m Jakeb Chouinard! I'm a Mechatronic Engineering student at the Univ
 
 ## **Matlab/C++ Port Sorting Simulator**
 ![alt text](https://github.com/borealis31/The_Shipyard/blob/main/matlab/exampleOutput.PNG)
-This is one of my first forays into the world of object oriented programming and recursive functions. This code contains three classes and three functions — one of which is a recursive merge sort function designed to sort objects of a certain class by two different properties depending on the application. The code is well documented and uses built-in MATLAB functions to identify errors in function and class implementation. If you're interested in learning more, [check out the code here](https://github.com/borealis31/The_Shipyard/matlab). I'm also looking to create a full c++ version of this as well now that the MATLAB version is complete.
+This is one of my first forays into the world of object oriented programming and recursive functions. This code contains three classes and three functions — one of which is a recursive merge sort function designed to sort objects of a certain class by two different properties depending on the application. The code is well documented and uses built-in MATLAB functions to identify errors in function and class implementation. If you're interested in learning more, [check out the code here](https://github.com/borealis31/The_Shipyard). I'm also looking to create a full c++ version of this as well now that the MATLAB version is complete.
 
 ## **RasPi Zero W "Car"**
 ![alt text](https://github.com/borealis31/borealis31/blob/main/20210318_171800.jpg)
