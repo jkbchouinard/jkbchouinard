@@ -1,6 +1,6 @@
 # ***Welcome!***
 
-Hi all, I’m Jakeb Chouinard! I'm a Mechanical Engineering student at the University of Waterloo. I have a strong interest in robotics and mechatronics projects, which is why I have this GitHub account. I'm currently engaged in improving my knowledge in a variety of things, such as Python, C++, and the Matlab Scripting Langauge. My experience in these is limited primarily to my academic coursework and indpendent projects, both of which I am hoping to showcase here.
+Hi all, I’m Jakeb Chouinard! I'm a Mechatronic Engineering student at the University of Waterloo. I have a strong interest in robotics and mechatronics projects, which is why I have this GitHub account. I'm currently engaged in improving my knowledge in a variety of things, such as Python, C++, and the Matlab Scripting Langauge. My experience in these is limited primarily to my academic coursework and indpendent projects, both of which I am hoping to showcase here.
 
 ## **Matlab/C++ Port Sorting Simulator**
 ![alt text](https://github.com/borealis31/The_Shipyard/blob/main/matlab/exampleOutput.PNG)
