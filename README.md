@@ -1,12 +1,10 @@
 # ***Welcome!***
 
-Hi all, I’m Jakeb Chouinard! I'm a Mechanical Engineering student at the University of Waterloo.
-I have a strong interest in robotics and mechatronics projects, which is why I have this GitHub account.
-I'm currently engaged in improving my knowledge in a variety of things, such as Python, C++, and the Matlab Scripting Langauge.
-My experience in these is limited primarily to my academic coursework and indpendent projects, both of which I am
-planning to showcase here.
+Hi all, I’m Jakeb Chouinard! I'm a Mechanical Engineering student at the University of Waterloo. I have a strong interest in robotics and mechatronics projects, which is why I have this GitHub account. I'm currently engaged in improving my knowledge in a variety of things, such as Python, C++, and the Matlab Scripting Langauge. My experience in these is limited primarily to my academic coursework and indpendent projects, both of which I am planning to showcase here.
 
-
+## **Matlab/C++ Port Sorting Simulator**
+![alt text](https://github.com/borealis31/The_Shipyard/blob/main/matlab/exampleOutput.PNG)
+This is one of my first forays into the world of object oriented programming and recursive functions. This code contains 
 
 ## **RasPi Zero W "Car"**
 ![alt text](https://github.com/borealis31/borealis31/blob/main/20210318_171800.jpg)
