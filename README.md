@@ -3,8 +3,8 @@
 Hi all, I’m Jakeb Chouinard! I'm a Mechatronic Engineering student at the University of Waterloo. I have a strong interest in robotics and mechatronics projects, which is why I have this GitHub account. I'm currently engaged in improving my knowledge in a variety of things, such as Python, C++, and the Matlab Scripting Langauge. My experience in these is limited primarily to my academic coursework and indpendent projects, both of which I am hoping to showcase here.
 
 ## **Mathworks Engineering Innovation Project 208: Raceline Optimization**
-Oblong Test | Kidney Bean Test
-:--------------|--------------:
+| Oblong Test | Kidney Bean Test |
+:--------------:|:--------------:
 ![Raceline Optimizer](https://github.com/borealis31/MW208_AUTON_RACECARS/blob/main/OblongTest.gif) | ![Raceline Optimizer 2](https://github.com/borealis31/MW208_AUTON_RACECARS/blob/main/KidneyBeanTest.gif)
 
 This project comes from the [Mathworks EI Project 208](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars) and uses a localized mathematical approach to optimizing the curvature of a raceline around a track. This raceline is optimized iteratively until a certain threshold is met; at which point, the program begins to develop a velocity profile. This velocity profile is optimized for the curvature of the optimized raceline and is constrained by maximum tangential and centripetal forces. This output can be returned as a real-time video of the "car" going around the track as well as a plot PNG of the velocity profile colorized to indicate high speed and low speed regions. Currently, the velocity profile is based around the physics of a point mass; however, I am hoping to develop a velocity profile generator based around a half-car dynamics model. If you're interested in learning more, [check out the code here](https://github.com/borealis31/MW208_AUTON_RACECARS) as well as some of the videos [here](https://www.youtube.com/playlist?list=PL4JPcckwBugJQonUbjWYa-0Lu1W8ki1SL).
